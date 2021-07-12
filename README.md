@@ -9,7 +9,7 @@ Sprites Folder --
 contains fake images outputted by the generator and real images for visual comparision of how the model is doing 
 
 
-most-recent-fakes.png -- fake images produced by network 
+most-recent-fakes.png -- fake images produced by network ** will be updated daily as new images get generated during training ** 
 reals.png -- sprites inside actual dataset 
 
 training_stylegan2-ada.ipynb -- 
