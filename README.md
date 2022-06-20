@@ -26,3 +26,6 @@ Grade Received: Distinction
 
 ## Description 
 Transfer-learning using Style2GAN trained on [Anime Faces](https://www.gwern.net/Faces) to generate Pokemon video game sprites and animations! 
+
+## Example Outputs
+
