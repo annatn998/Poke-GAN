@@ -31,9 +31,9 @@ See **training_stylegan2-ada.ipynb** file for steps on training!
 
 ## Folders
 
-Testing_Scratch_Model - Images of sprites generated when model was trained from scratch 
+Testing_ScratchModel - Images of sprites generated when model was trained from scratch 
 
-Testing_Transfer_Learning_Model - Images of sprites generated when model was trained using transfer-learning
+Testing_TransferLearningModel - Images of sprites generated when model was trained using transfer-learning
 
 ## Datasets
 
