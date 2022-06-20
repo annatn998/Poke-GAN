@@ -29,6 +29,12 @@ Transfer-learning using Style2GAN trained on [Anime Faces](https://www.gwern.net
 
 See **training_stylegan2-ada.ipynb** file for steps on training! 
 
+## Folders
+
+Testing_Scratch_Model - Images of sprites generated when model was trained from scratch 
+
+Testing_Transfer_Learning_Model - Images of sprites generated when model was trained using transfer-learning
+
 ## Datasets
 
 [Poke-Sprites Dataset](https://github.com/msikma/pokesprite)
